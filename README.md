@@ -1,3 +1,3 @@
 # Demo 2
 
-Some text.
+## **Stay tuned for upcoming features.**
